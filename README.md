@@ -1,1 +1,1 @@
-Github 활용 규칙
+# Github 활용 규칙
