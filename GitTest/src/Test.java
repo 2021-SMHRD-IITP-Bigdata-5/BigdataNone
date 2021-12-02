@@ -10,7 +10,7 @@ public class Test {
 		// 팀원 2명이상이 같은파일을 수정하고 저장하면 충돌이 일어나므로 주의!
 		// 충돌 경험 테스트입니다!
 		
-		// PUSH TEST
+		// PUSH TEST!~!
 		System.out.println("First Code!");
 	}
 
