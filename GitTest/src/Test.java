@@ -3,12 +3,13 @@ public class Test {
 
 	public static void main(String[] args) {
 		
-		// Github È¯°æ¼³Á¤ (ÆÀ¿ø ÀüºÎ µ¿ÀÏÇØ¾ßµÊ)
-		// 1. JDK ¹öÀü
-		// 2. Tomcat ¹öÀü
-		// 3. Encoding ¹æ½Ä(UTF-8)
-		// ÆÀ¿ø 2¸íÀÌ»óÀÌ °°ÀºÆÄÀÏÀ» ¼öÁ¤ÇÏ°í ÀúÀåÇÏ¸é Ãæµ¹ÀÌ ÀÏ¾î³ª¹Ç·Î ÁÖÀÇ!
-
+		// Github í™˜ê²½ì„¤ì • (íŒ€ì› ì „ë¶€ ë™ì¼í•´ì•¼ë¨)
+		// 1. JDK ë²„ì „
+		// 2. Tomcat ë²„ì „
+		// 3. Encoding ë°©ì‹(UTF-8)
+		// íŒ€ì› 2ëª…ì´ìƒì´ ê°™ì€íŒŒì¼ì„ ìˆ˜ì •í•˜ê³  ì €ìž¥í•˜ë©´ ì¶©ëŒì´ ì¼ì–´ë‚˜ë¯€ë¡œ ì£¼ì˜!
+		// ì¶©ëŒ ê²½í—˜ í…ŒìŠ¤íŠ¸ìž…ë‹ˆë‹¤!
+		
 		System.out.println("First Code!");
 	}
 
